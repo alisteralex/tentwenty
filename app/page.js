@@ -4,6 +4,7 @@ export const metadata = {
         "A Next.js 13 starter project built without using create-next-app.",
 };
 
+
 const Page = () => {
     return (
         <>
